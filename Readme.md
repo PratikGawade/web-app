@@ -2,4 +2,3 @@
 
 
 - The application is writen in python
-- great
